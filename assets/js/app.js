@@ -59,6 +59,32 @@ const PRODUCTS = [
     sizes: ["36", "38", "40", "42", "44", "Sob Medida"],
     composition: "Denim 100% Algodão + Renda Francesa Chantilly Bordô",
     details: "Comprimento abaixo do joelho, fenda lateral profunda estruturada, acabamento desfiado manual."
+  },
+  {
+    id: 5,
+    name: "Calça Flare Grafite Renda Rosa",
+    category: "Denim Couture",
+    price: 469.00,
+    image: "assets/images/calca-flare-grafite-renda-rosa.png",
+    badge: "✦ Novo Drop",
+    badgeType: "badge-red",
+    description: "Calça flare em jeans premium estonado chumbo grafite com fendas laterais inferiores que revelam nesgas amplas de renda guipir rosa bebê. Modelagem de pernas alongadas que flui sobre o calçado, unindo atitude urbana e alta-costura.",
+    sizes: ["34", "36", "38", "40", "42", "Sob Medida"],
+    composition: "Denim 100% Algodão Estonado Grafite + Renda Guipir Floral Rosa Claro",
+    details: "Cintura estruturada, nesgas laterais godet em renda rosa com abertura fluida, bolsos clássicos e confecção sob medida."
+  },
+  {
+    id: 6,
+    name: "Calça Low-Rise Denim Renda Cherry",
+    category: "Denim Couture",
+    price: 459.00,
+    image: "assets/images/calca-low-rise-renda-cherry.png",
+    badge: "✦ Autoral Exclusivo",
+    badgeType: "",
+    description: "Calça jeans em denim azul clássico vintage com modelagem low-rise (cintura baixa) e fendas traseiras e laterais com nesgas em renda chantilly vermelho cereja com barra desfiada artesanal. Caimento sensual e exclusivo com movimento exuberante.",
+    sizes: ["34", "36", "38", "40", "42", "Sob Medida"],
+    composition: "Denim 100% Algodão Vintage Blue + Renda Francesa Cherry Red",
+    details: "Cintura baixa (low-rise), abertura lateral e traseira forrada com renda cereja e desfiados manuais, corte sob medida."
   }
 ];
 
